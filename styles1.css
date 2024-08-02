@@ -1,5 +1,5 @@
 .front {
-  background-image: url(./bg1.png);
+  background-image: url(./resource/bg1.png);
   background-size: cover;
   filter: brightness(65%);
   width: 99vw;
@@ -590,7 +590,7 @@ main {
 
   /* justify-content: space-between; */
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 1vw;
 }
 
 .card {
@@ -895,7 +895,7 @@ hr {
 
 .testimonials-container {
   display: flex;
-  gap: 20px;
+  gap: 1vw;
   /* justify-content: space-between; */
   flex-wrap: wrap;
 }
